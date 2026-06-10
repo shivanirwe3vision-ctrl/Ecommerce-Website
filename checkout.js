@@ -17,7 +17,7 @@ window.onload = function () {
         mask: [
             {
                 mask: '0000 000000 00000',
-                regex: '^3[47]\\d{0,13}',
+                regex: '^4[47]\\d{0,14}',
                 cardtype: 'american express'
             },
             {
